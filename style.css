@@ -1,0 +1,35 @@
+  .row_style
+        {
+            margin-top: 80px;
+        }
+        
+        .col_style
+        {
+            margin-left: 400px;
+        }
+     
+        .co
+        {
+            margin-top: 215px;
+        }
+        .table-bordered td{
+    border-color: black !important;
+            padding: 20px !important;
+        
+}
+        .row_st
+        {
+            margin-top: 100px;
+            margin-left: 400px;
+        }h3
+        {
+            font-family:sans-serif;
+            color: black;
+        }
+        .footer
+{
+    background-color: #000; color:#fff; font-size:14px;
+    margin-top:127px;
+    margin-right:0px;
+    width: auto;
+}

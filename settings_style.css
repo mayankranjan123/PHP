@@ -1,0 +1,24 @@
+.row_style
+        {
+            margin-top: 80px;
+        }
+        .sty
+        {
+            align-content: center;
+        }
+        .col_style
+        {
+            margin-left: 400px;
+        }
+        .footer
+{
+    background-color: #000; color:#fff; font-size:14px;
+    margin-top: 304.2px;
+    width: auto;
+}
+h6
+{
+    color: blue;
+    font-size: 22px;
+    margin-left: -230px;
+}
